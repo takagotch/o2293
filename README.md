@@ -3,6 +3,9 @@
 
 https://takagotch.github.io/page358/
 
+###### 日本語
+https://translate.google.co.jp/translate?hl=ja&tab=rT&authuser=0&sl=auto&tl=ja&u=https%3A%2F%2Ftakagotch.github.io%2Fpage358%2F%3Ffbclid%3DIwAR0MpK36696C2HymSwLPEElqQeKs3UAKTkLjuiLD5l0Gib38qGB7Vpft7xs
+
 
 ```
 ```
