@@ -46,14 +46,14 @@ define(['util-AMD'], function(_) {
             console.log("初始化数据库");
             var cateJson = [{
                 "id": 0,
-                "name": "默认分类",
+                "name": "デフォルトカテゴリ",
                 "child": [0]
             }];
 
             var childCateJson = [{
                 "id": 0,
                 "pid": 0,
-                "name": "默认子分类",
+                "name": "デフォルトサブカテゴリ",
                 "child": [-1],
             }];
 
@@ -61,7 +61,7 @@ define(['util-AMD'], function(_) {
                 "id": -1,
                 "pid": 0,
                 "finish": true,
-                "name": "使用说明",
+                "name": "使用説明書",
                 "date": "2015-06-05",
                 "content": "本应用为离线应用，数据将存储在本地硬盘\n\n左侧为分类列表\n中间为当前分类下的任务列表\n右侧为任务详情\n\n可以添加删除分类，添加任务，修改任务，以及给任务标记是否完成等功能\n\nby Gaohaoyang\nhttp://gaohaoyang.github.io ",
             }];
