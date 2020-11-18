@@ -5,7 +5,7 @@
  * 数据访问对象，包含数据的各种增删查改
  *
  * @file DAO-AMD.js
- * @author Gaohaoyang(gaohaoyang126@126.com)
+ * @author takagotch(takagotch@activated.sakura.ne.jp)
  *
  */
 
