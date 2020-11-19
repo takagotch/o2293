@@ -8,6 +8,13 @@ https://translate.google.co.jp/translate?hl=ja&tab=rT&authuser=0&sl=auto&tl=ja&u
 
 
 ```
+コンパイラを通す必要がある。
+.js
+.scss
+
+コンパイラを通す必要がない。
+.html
+.css
 ```
 
 ```
